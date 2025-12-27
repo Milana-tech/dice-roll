@@ -19,3 +19,9 @@ This project was created to practice JavaScript event handling, random number ge
 * A clear history button could be implemented.
 * Support for rolling multiple dice could be added.
 * Animations could be improved.
+
+======================================================
+
+Screenshot:
+
+<img width="1564" height="685" alt="image" src="https://github.com/user-attachments/assets/0b546280-f5cb-4c4f-a7e6-4193afdbd1bc" />
