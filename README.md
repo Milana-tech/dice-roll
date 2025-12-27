@@ -1,36 +1,21 @@
-Dice Roll.
-Project Overview:
+Project Overview
 
-The Dice Roll is a simple interactive web project that simulates rolling a dice. The application displays a dice in the center of the screen and allows users to roll it by clicking a button. Each roll generates a random number and keeps track of previous results in a history list.
+Dice Roll is a simple interactive web application that simulates rolling a dice. The dice is displayed in the center of the screen and can be rolled by clicking a button. Each roll generates a random number and saves the result in a history list so that previous rolls can be viewed.
 
-Features:
+Features
 
-Dice displayed at the center of the screen
+* The application displays a dice in the center of the screen.
+* A Roll Dice button triggers the dice roll.
+* A random number is generated on each roll.
+* All roll results are stored and shown in a history list.
 
-Roll Dice button to trigger the roll
+Project Purpose
 
-Random number generation
+This project was created to practice JavaScript event handling, random number generation, DOM manipulation, and modern CSS styling with animations.
 
-Roll history list showing all previous results
+Future Improvements
 
-Project Purpose:
-
-This project was created to practice:
-
-JavaScript event handling
-
-Random number generation
-
-DOM manipulation
-
-CSS animations and modern styling
-
-Future Improvements (Optional)
-
-Add sound effects
-
-Clear history button
-
-Multiple dice support
-
-Improved animations
+* Sound effects could be added.
+* A clear history button could be implemented.
+* Support for rolling multiple dice could be added.
+* Animations could be improved.
